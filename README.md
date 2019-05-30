@@ -1,2 +1,2 @@
 # Programacion-de-Computadores
-Diapositivas del curso
+Aquí encontrarán las diapositivas del curso.
